@@ -2,10 +2,9 @@
 A simple web api call comments
 
 ## Instructions
-
-1.  Get
-2.  Post
-3.  Delete
+1.  Get     /api/comments
+2.  Post    /api/comments
+3.  Delete  /api/comments{id}
 
 ## Deploying the web app to Azure 
 1. BackEnd url: https://api-comments.azurewebsites.net/swagger/ui/index
